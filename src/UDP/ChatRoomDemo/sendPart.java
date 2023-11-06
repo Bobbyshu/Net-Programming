@@ -7,7 +7,7 @@ import java.util.Scanner;
 // chat room can be set in idea:
 // sendPart -> edit configuration
 // modify option -> allow multiple instances
-// open multiple send part and each part can send message to receive part
+// open multiple send part and each part can send message to receive part..
 public class sendPart {
   public static void main(String[] args) throws IOException {
     DatagramSocket ds = new DatagramSocket();
